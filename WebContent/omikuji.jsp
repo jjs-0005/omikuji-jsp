@@ -17,16 +17,16 @@
     if (num == 10) {
 		out.println("大吉");
 
-	} else if (num >= 7) {
+    } else if (num >= 7) {
 		out.println("吉");
 
-	} else if (num >= 5) {
+    } else if (num >= 5) {
 	    out.println("中吉");
 
-	} else if (num >= 3) {
+    } else if (num >= 3) {
 	    out.println("小吉");
 
-	}else {
+    }else {
 	    out.println("凶");
 	}
 
