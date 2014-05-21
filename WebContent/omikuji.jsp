@@ -28,7 +28,7 @@
 
     }else {
 	    out.println("凶");
-	}
+    }
 
 
     %>
